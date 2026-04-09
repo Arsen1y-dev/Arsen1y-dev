@@ -59,7 +59,7 @@ perfilov = {
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -69,6 +69,9 @@ perfilov = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=recharts&logoColor=white)
+![PapaParse](https://img.shields.io/badge/PapaParse-FFCA28?style=flat-square&logo=papaparse&logoColor=black)
 
 **Databases**
 
@@ -80,16 +83,12 @@ perfilov = {
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=python&logoColor=white)
-
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsen1y-dev&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsen1y-dev&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Arsen1y-dev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
