@@ -90,7 +90,7 @@ perfilov = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsen1y-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsen1y-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Arsen1y-dev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
