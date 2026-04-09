@@ -112,6 +112,6 @@ perfilov = {
 
 *Building at the intersection of data and code.*
 
-![Profile views](https://komarev.com/ghpvc/?username=Arsen1y-dev&style=flat-square&color=555)
+![Profile views](https://komarev.com/ghpvc/?username=Arsen1y-dev&style=flat-square)
 
 </div>
