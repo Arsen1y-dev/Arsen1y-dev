@@ -87,12 +87,9 @@ perfilov = {
 ## 📊 GitHub Stats
 
 <div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsen1y-dev&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400)
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsen1y-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsen1y-dev&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsen1y-dev&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Arsen1y-dev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
@@ -105,7 +102,7 @@ perfilov = {
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🏠 **Real Estate EDA** | Collection, labeling & exploratory analysis of real estate dataset | Python, Pandas, Seaborn |
-| 📊 **Real Estate Dashboard** | Interactive analytics panel for real estate market visualization | Plotly, Dash |
+| 📊 **Real Estate Dashboard** | Interactive analytics panel for real estate market visualization | React, TypeScript, Vite, Recharts, Papa Parse. |
 | 🤖 **Age Prediction** | Age prediction from photos using ML | Scikit-learn, OpenCV |
 
 ---
