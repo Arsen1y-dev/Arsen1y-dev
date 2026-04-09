@@ -88,9 +88,11 @@ perfilov = {
 
 <div align="center">
 
+<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsen1y-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsen1y-dev&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Arsen1y-dev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
@@ -109,8 +111,9 @@ perfilov = {
 ---
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=*+Building+at+the+intersection+of+data+and+code.*
-)](https://git.io/typing-svg)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Building+at+the+intersection+of+data+and+code)
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=Arsen1y-dev&style=flat-square)
 
