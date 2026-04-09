@@ -109,8 +109,8 @@ perfilov = {
 ---
 
 <div align="center">
-
-*Building at the intersection of data and code.*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=*+Building+at+the+intersection+of+data+and+code.*
+)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Arsen1y-dev&style=flat-square)
 
