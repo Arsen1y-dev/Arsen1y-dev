@@ -9,7 +9,7 @@
 
 # Hi, I'm Arseny 👋
 
-**3rd-year student** · Math & Information Systems · Saratov State University  
+**4th-year student** · Math & Information Systems · Saratov State University  
 Specialization: **Big Data & Machine Learning**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@blessper-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/blessper)
@@ -27,7 +27,7 @@ perfilov = {
     "faculty":    "Computer Science & IT",
     "major":      "02.03.03 — Math & Information Systems",
     "focus":      "Big Data & Machine Learning",
-    "year":       3,
+    "year":       4,
     "learning":   ["Frontend Development (Yandex Practicum)"],
     "interests":  ["ML", "Data Analysis", "Web Scraping", "Dashboards"],
 }
