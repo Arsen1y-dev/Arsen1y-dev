@@ -167,5 +167,5 @@ perfilov = {
 ---
 
 <div align="center">
-  <sub>Designed & curated by <b>Arseny Perfilov</b> · Built with passion for data and clean engineering</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Designed+%26+curated+by+Arseny+Perfilov;Built+with+passion+for+data+and+clean+engineering" alt="Footer Animated Typing" />
 </div>
