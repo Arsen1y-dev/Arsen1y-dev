@@ -27,7 +27,8 @@ perfilov = {
     "faculty": "Computer Science & Information Technologies",
     "major": "02.03.03 — Mathematical Software & Info Systems",
     "focus": "Big Data & Machine Learning",
-    "year": "4th Year Undergraduate",
+    "year": "4th Year Undergraduate (Graduating 2026)",
+    "current_stage": "7th semester · Preparing for 8th semester & Bachelor's Thesis",
     "additional_education": [
         "Yandex Practicum — Frontend Development",
         "Digital Department SGU — Machine Learning",
