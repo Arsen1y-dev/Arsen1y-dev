@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Arsen1y-dev">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Arseny+Perfilov;Data+Science+%26+Machine+Learning;Full-Stack+Web+Developer;Building+Data-Driven+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Arseny+Perfilov;Data+Science+%26+Machine+Learning;Full-Stack+Web+Developer;Building+Data-Driven+Applications" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -167,5 +167,5 @@ perfilov = {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Designed+%26+curated+by+Arseny+Perfilov;Built+with+passion+for+data+and+clean+engineering" alt="Footer Animated Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Designed+%26+curated+by+Arseny+Perfilov;Built+with+passion+for+data+and+clean+engineering" alt="Footer Animated Typing" />
 </div>
