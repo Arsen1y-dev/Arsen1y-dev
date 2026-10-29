@@ -156,11 +156,11 @@ perfilov = {
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Arsen1y-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Arseny's GitHub Streak" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Arsen1y-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arseny's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-ten-chi.vercel.app/api?username=Arsen1y-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Arseny's GitHub Stats" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsen1y-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+<img src="https://github-readme-stats-ten-chi.vercel.app/api/top-langs/?username=Arsen1y-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="55%" />
 
 </div>
 
