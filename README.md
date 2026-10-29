@@ -60,10 +60,8 @@ perfilov = {
 | :--- | :--- | :--- | :---: |
 | 📊 **[Real Estate Analytics Dashboard](https://github.com/Arsen1y-dev/real-estate-analytics-dashboard)** | Interactive market analytics panel with custom parsers, dynamic metrics, and spatial visualizations | React, TypeScript, Vite, Recharts, PapaParse, Python, SQLite | [Code](https://github.com/Arsen1y-dev/real-estate-analytics-dashboard) |
 | 🤖 **[Machine Learning Portfolio](https://github.com/Arsen1y-dev/machine-learning-portfolio)** | Deep learning & CV models: CNNs (ResNet, EfficientNet), age estimation, image classification & OOD detection | Python, PyTorch, Scikit-learn, OpenCV, YOLOv8, NumPy | [Code](https://github.com/Arsen1y-dev/machine-learning-portfolio) |
-| 🕸️ **[Graph Theory Visualizer](https://github.com/Arsen1y-dev/graph-theory-visualizer)** | Algorithm visualizer and graph engine: Edmonds-Karp max flow, Bellman-Ford, Kosaraju SCC, Dijkstra | Python, Graph Algorithms, Matplotlib | [Code](https://github.com/Arsen1y-dev/graph-theory-visualizer) |
 | 🖼️ **[Mesto Interactive Gallery](https://github.com/Arsen1y-dev/mesto-gallery)** | Responsive social photo gallery with modal dialogs, client-side validation, and interactive card deck | JavaScript (ES6+), Webpack, HTML5, CSS3 (BEM) | [Code](https://github.com/Arsen1y-dev/mesto-gallery) · [Demo](https://arsen1y-dev.github.io/mesto-gallery-pages/) |
 | ✅ **[Task Management SPA](https://github.com/Arsen1y-dev/to-do-react)** | Modern task management single-page application with smooth state updates and responsive UI | React, TypeScript, Vite, CSS Modules | [Code](https://github.com/Arsen1y-dev/to-do-react) |
-| 🛒 **[Interactive Shopping List](https://github.com/Arsen1y-dev/shopping-list-react)** | Fast shopping list web application with persistent local state and real-time updates | React, TypeScript, Vite, CSS3 | [Code](https://github.com/Arsen1y-dev/shopping-list-react) |
 
 ---
 
